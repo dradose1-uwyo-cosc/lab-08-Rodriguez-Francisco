@@ -1,7 +1,7 @@
 # Francisco Rodriguez
 # UWYO COSC 1010
 # Submission Date 111120224
-# Lab section Mon 3:10P
+# Lab sectiong Mon 3:10P
 # Sources, people worked with, help given to:
 # Your
 # Comments
